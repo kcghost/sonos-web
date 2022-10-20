@@ -14,8 +14,9 @@ Sonos Web has been tested on Windows 10, macOS, Linux, and Raspbian Stretch Lite
 
 ## Oh Fork it's a Fork!
 
-This is a fork of [Villarrealized's excellent project](https://github.com/Villarrealized/sonos-web), which appears to be abandoned.
-Despite only being a couple years old, the project has rotted quite quickly and developed many breaking issues.
+This is a fork of [Villarrealized's excellent project](https://github.com/Villarrealized/sonos-web), ~~which appears to be abandoned~~.
+The [main sonos-web project](https://github.com/sonos-web/sonos-web) is under active development again and has a working Docker image, you should probably use that instead of this personal fork!
+
 Several fixes were pulled into a branch by [stufisher](https://github.com/stufisher/sonos-web/tree/update_and_fix) which this fork uses.
 
 When I attempted to get this project working for myself I found that:
